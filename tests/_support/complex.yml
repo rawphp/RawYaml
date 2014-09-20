@@ -1,0 +1,15 @@
+
+# Employee Record
+name:     Example Developer
+job:      Developer
+skill:    Elite
+employed: true
+foods:
+    - Apple
+    - Orange
+    - Mango
+    - Strawberry
+languages:
+    - ruby:   Elite
+    - python: Elite
+    - dotnet: Lame
