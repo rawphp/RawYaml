@@ -1,4 +1,4 @@
-# RawYaml - A Simple Symfony Yaml Wrapper Class for PHP Applications
+# RawYaml - A Simple Symfony Yaml Wrapper Class for PHP Applications [![Build Status](https://travis-ci.org/rawphp/RawYaml.svg?branch=master)](https://travis-ci.org/rawphp/RawYaml)
 
 ## Package Features
 - Load yaml files into arrays
