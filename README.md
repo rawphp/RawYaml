@@ -1,6 +1,8 @@
-# RawYaml - A Simple Symfony Yaml Wrapper Class for PHP Applications [![Build Status](https://travis-ci.org/rawphp/RawYaml.svg?branch=master)](https://travis-ci.org/rawphp/RawYaml) [![Coverage Status](https://coveralls.io/repos/rawphp/RawYaml/badge.png)](https://coveralls.io/r/rawphp/RawYaml)
+# RawYaml - A Simple Symfony Yaml Wrapper Class for PHP Applications
 
-[![Latest Stable Version](https://poser.pugx.org/rawphp/raw-yaml/v/stable.svg)](https://packagist.org/packages/rawphp/raw-yaml) [![Total Downloads](https://poser.pugx.org/rawphp/raw-yaml/downloads.svg)](https://packagist.org/packages/rawphp/raw-yaml) [![Latest Unstable Version](https://poser.pugx.org/rawphp/raw-yaml/v/unstable.svg)](https://packagist.org/packages/rawphp/raw-yaml) [![License](https://poser.pugx.org/rawphp/raw-yaml/license.svg)](https://packagist.org/packages/rawphp/raw-yaml)
+[![Build Status](https://travis-ci.org/rawphp/RawYaml.svg?branch=master)](https://travis-ci.org/rawphp/RawYaml) [![Coverage Status](https://coveralls.io/repos/rawphp/RawYaml/badge.png)](https://coveralls.io/r/rawphp/RawYaml)
+[![Latest Stable Version](https://poser.pugx.org/rawphp/raw-yaml/v/stable.svg)](https://packagist.org/packages/rawphp/raw-yaml) [![Total Downloads](https://poser.pugx.org/rawphp/raw-yaml/downloads.svg)](https://packagist.org/packages/rawphp/raw-yaml)
+[![Latest Unstable Version](https://poser.pugx.org/rawphp/raw-yaml/v/unstable.svg)](https://packagist.org/packages/rawphp/raw-yaml) [![License](https://poser.pugx.org/rawphp/raw-yaml/license.svg)](https://packagist.org/packages/rawphp/raw-yaml)
 
 ## Package Features
 - Load yaml files into arrays
