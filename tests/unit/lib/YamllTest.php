@@ -85,7 +85,7 @@ class YamllTest extends \PHPUnit_Framework_TestCase
     /**
      * Test log instantiated correctly.
      */
-    public function testMailInstantiatedSuccessfully( )
+    public function testYamlInstantiatedSuccessfully( )
     {
         $this->assertNotNull( $this->yaml );
     }
