@@ -54,5 +54,8 @@ Please submit bug reports, suggestions and pull requests to the [GitHub issue tr
 
 ## Changelog
 
+#### 21-09-2014
+- Tested for PHP 5.3
+
 #### 20-09-2014
 - Initial Code Commit
