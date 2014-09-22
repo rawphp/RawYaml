@@ -56,6 +56,9 @@ This package is licensed under the [MIT](https://github.com/rawphp/RawYaml/blob/
 
 Please submit bug reports, suggestions and pull requests to the [GitHub issue tracker](https://github.com/rawphp/RawYaml/issues).
 
+## Versioning
+This package uses the [Semantic Versioning](http://semver.org/spec/v2.0.0.html) standard.
+
 ## Changelog
 
 #### 21-09-2014
