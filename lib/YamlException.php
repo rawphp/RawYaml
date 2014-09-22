@@ -35,7 +35,7 @@
 
 namespace RawPHP\RawYaml;
 
-use RawPHP\RawBase\RawException;
+use RawPHP\RawBase\Exceptions\RawException;
 
 /**
  * Exception thrown when there are problems with parsing or dumping yaml.
