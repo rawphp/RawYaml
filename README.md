@@ -4,6 +4,8 @@
 [![Latest Stable Version](https://poser.pugx.org/rawphp/raw-yaml/v/stable.svg)](https://packagist.org/packages/rawphp/raw-yaml) [![Total Downloads](https://poser.pugx.org/rawphp/raw-yaml/downloads.svg)](https://packagist.org/packages/rawphp/raw-yaml)
 [![Latest Unstable Version](https://poser.pugx.org/rawphp/raw-yaml/v/unstable.svg)](https://packagist.org/packages/rawphp/raw-yaml) [![License](https://poser.pugx.org/rawphp/raw-yaml/license.svg)](https://packagist.org/packages/rawphp/raw-yaml)
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/76186b46-a717-47af-9f5a-6894b36e83b3/big.png)](https://insight.sensiolabs.com/projects/76186b46-a717-47af-9f5a-6894b36e83b3)
+
 ## Package Features
 - Load yaml files into arrays
 - Save arrays as yaml files
