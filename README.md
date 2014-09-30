@@ -15,12 +15,12 @@
 ### Composer
 RawYaml is available via [Composer/Packagist](https://packagist.org/packages/rawphp/raw-yaml).
 
-Add `"rawphp/raw-yaml": "1.0.0-RC-1"` to the require block in your composer.json and then run `composer install`.
+Add `"rawphp/raw-yaml": "1.0.0-RC-3"` to the require block in your composer.json and then run `composer install`.
 
 ```json
 {
         "require": {
-            "rawphp/raw-yaml": "1.0.0-RC-1"
+            "rawphp/raw-yaml": "1.0.0-RC-3"
         }
 }
 ```
@@ -28,7 +28,7 @@ Add `"rawphp/raw-yaml": "1.0.0-RC-1"` to the require block in your composer.json
 You can also simply run the following from the command line:
 
 ```sh
-composer require rawphp/raw-yaml "1.0.0-RC-1"
+composer require rawphp/raw-yaml "1.0.0-RC-3"
 ```
 
 ### Tarball
